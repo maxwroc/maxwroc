@@ -27,6 +27,6 @@ Here are some of my repos which you may find interesting
 
 | Name | Stars | Description |
 |:-----|:-----|:-----|
-| [UrlEditorPro](https://github.com/maxwroc/UrlEditorPro) | ![GitHub Repo stars](https://img.shields.io/github/stars/maxwroc/UrlEditorPro?color=%23fefefe&label=%20) |  Helps with editing long and complex URLs (it can apply changes automatically). The lame suffix is just because similar names were taken already (in ChromeWebStore) and I was too lazy to figure out other name ;) |
+| [UrlEditorPro](https://github.com/maxwroc/UrlEditorPro) | ![GitHub Repo stars](https://img.shields.io/github/stars/maxwroc/UrlEditorPro?color=%23fefefe&label=%20) |  Helps with editing long and complex URLs (it can apply changes automatically). The lame suffix is just because similar names were taken already (in ChromeWebStore) and I was too lazy to figure out a better name ;) |
 | [TabSwitch](https://github.com/maxwroc/TabSwitch) | ![GitHub Repo stars](https://img.shields.io/github/stars/maxwroc/TabSwitch?color=%23fefefe&label=%20) |  Very simple extension allowing you to jumnp to previous tab with keyboard combination  |
 
