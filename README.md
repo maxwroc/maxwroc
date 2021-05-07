@@ -1,6 +1,3 @@
-### Hey
-Here are some of my repos which you may find interesting
-
 ## <img src="./assets/homeassistant.svg" width="24px" height="24px" alt="hi"> HomeAssistant 
 
 | Name | Stars | Description |
