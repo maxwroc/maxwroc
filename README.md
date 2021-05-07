@@ -22,6 +22,7 @@ Here are some of my repos which you may find interesting
 | Name | Stars | Description |
 |:-----|:-----|:-----|
 | [Remove-RedundantLogFiles](https://github.com/maxwroc/Remove-RedundantLogFiles) | ![GitHub Repo stars](https://img.shields.io/github/stars/maxwroc/Remove-RedundantLogFiles?color=%23fefefe&label=%20) |  Auto-cleanup script for old/redundant files (uses Task Scheduler)  |
+| [Invoke-WebhookOnLock](https://github.com/maxwroc/Invoke-WebhookOnLock) | ![GitHub Repo stars](https://img.shields.io/github/stars/maxwroc/Invoke-WebhookOnLock?color=%23fefefe&label=%20) |  Calls web endpoint when device is locked/unlocked (uses Task Scheduler)  |
 
 ## <img src="./assets/googlechrome.svg" width="24px" height="24px" alt="hi"> Browser extensions / add-ons
 
