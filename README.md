@@ -11,6 +11,7 @@
 
 | Name | Stars | Description |
 |:-----|:-----|:-----|
+| [sonj-review](https://github.com/maxwroc/sonj-review) | ![GitHub Repo stars](https://img.shields.io/github/stars/maxwroc/sonj-review?color=%23fefefe&label=%20) |  Small but powerful JSON viewer  |
 | [HideSeek-Mod](https://github.com/maxwroc/HideSeek-Mod) | ![GitHub Repo stars](https://img.shields.io/github/stars/maxwroc/HideSeek-Mod?color=%23fefefe&label=%20) |  Simple, yet customizable quick/live search jQuery plugin  |
 | [SVGTree](https://github.com/maxwroc/SVGTree) | ![GitHub Repo stars](https://img.shields.io/github/stars/maxwroc/SVGTree?color=%23fefefe&label=%20) |  An example showing how to print/render tree structure as SVG   |
 
