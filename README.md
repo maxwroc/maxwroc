@@ -19,7 +19,7 @@
 
 | Name | Stars | Description |
 |:-----|:-----|:-----|
-| [Copy-MediaFilesFromMobile](https://github.com/maxwroc/Copy-MediaFilesFromMobile) | ![GitHub Repo stars](https://img.shields.io/github/stars/maxwroc/Remove-RedundantLogFiles?color=%23fefefe&label=%20) | Script for automatic transfering media content from MTP connected device |
+| [Copy-MediaFilesFromMobile](https://github.com/maxwroc/Copy-MediaFilesFromMobile) | ![GitHub Repo stars](https://img.shields.io/github/stars/maxwroc/Copy-MediaFilesFromMobile?color=%23fefefe&label=%20) | Script for automatic transfering media content from MTP connected device |
 | [Remove-RedundantLogFiles](https://github.com/maxwroc/Remove-RedundantLogFiles) | ![GitHub Repo stars](https://img.shields.io/github/stars/maxwroc/Remove-RedundantLogFiles?color=%23fefefe&label=%20) |  Auto-cleanup script for old/redundant files (uses Task Scheduler)  |
 | [Invoke-WebhookOnLock](https://github.com/maxwroc/Invoke-WebhookOnLock) | ![GitHub Repo stars](https://img.shields.io/github/stars/maxwroc/Invoke-WebhookOnLock?color=%23fefefe&label=%20) |  Calls web endpoint when device is locked/unlocked (uses Task Scheduler)  |
 
