@@ -32,5 +32,10 @@
 | [TabSwitch](https://github.com/maxwroc/TabSwitch) | ![GitHub Repo stars](https://img.shields.io/github/stars/maxwroc/TabSwitch?color=%23fefefe&label=%20) |  Very simple extension allowing you to jump to previous tab with keyboard combination  |
 
 
+## <img src="./assets/tool-green.svg" width="24px" height="24px" alt="hi"> Tools
+
+| Name | Stars | Description |
+|:-----|:-----|:-----|
+| [FlexiHarAnalyzer](https://github.com/maxwroc/FlexiHarAnalyzer) | ![GitHub Repo stars](https://img.shields.io/github/stars/maxwroc/FlexiHarAnalyzer?color=%23fefefe&label=%20) |  HAR analyzer with support for custom JS plugins  |
 
 [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://buymeacoffee.com/maxwroc)
